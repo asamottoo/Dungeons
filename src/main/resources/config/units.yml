@@ -1,0 +1,12 @@
+pickles:
+  name: "pickles"
+  status:
+    hip: 10000
+    mep: 10000
+    sap: 10000
+    pow: 1
+    spd: 1
+    sta: 1
+    dex: 1
+    mag: 1
+    luc: 1
